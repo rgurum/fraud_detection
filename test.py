@@ -1,3 +1,3 @@
 import os
 print ("Adding Python code")
-print ("tst")
+print ("Hello {}! How are you?".format ("Guru"))
